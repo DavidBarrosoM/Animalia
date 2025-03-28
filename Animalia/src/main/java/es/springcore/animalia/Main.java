@@ -1,3 +1,4 @@
+package es.springcore.animalia;
 
 public class Main {
 
